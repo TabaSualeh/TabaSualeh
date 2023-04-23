@@ -29,11 +29,21 @@
 [snapchat]: https://www.snapchat.com/add/taba_sualeh?share_id=1Gx5eJxql2Q&locale=en-US
 
 ### **GitHub Stats**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TabaSualeh&theme=chartreuse-dark)
+<!-- ![GitHub stats]("https://github-readme-stats.vercel.app/api?username=TabaSualeh&theme=chartreuse-dark")-->
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TabaSualeh&theme=dark&langs_count=8) -->
 
+<a href="![Top Langs]">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TabaSualeh&theme=dark" />
+</a>     
+<a href="![GitHub stats]">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TabaSualeh&theme=chartreuse-dark" />
+</a>
+<br>
+<br />
 
 **Thanks for visiting my profile! Feel free to explore my projects and get in touch.**
+
 
 <!--
 **TabaSualeh/TabaSualeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
