@@ -10,7 +10,6 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/His/Him
 
-
 ### Get in Touch
 
 [<img align="left" alt="TabaSualeh | LinkedIn" width="25px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-linkedin-in-logo-used-for-professional-networking-logo-shadow-tal-revivo.png" />][linkedin]
@@ -27,7 +26,6 @@
 [linkedin]: https://www.linkedin.com/in/tabasualeh/
 [facebook]: https://www.facebook.com/leo.tabasualeh/
 [snapchat]: https://www.snapchat.com/add/taba_sualeh?share_id=1Gx5eJxql2Q&locale=en-US
-
 ### **GitHub Stats**
 <!-- ![GitHub stats]("https://github-readme-stats.vercel.app/api?username=TabaSualeh&theme=chartreuse-dark")-->
 
@@ -43,6 +41,11 @@
 <br />
 
 **Thanks for visiting my profile! Feel free to explore my projects and get in touch.**
+<br>
+<br/>
+<img align="left" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+  
+<br >
 
 
 <!--
